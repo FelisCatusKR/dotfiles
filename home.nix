@@ -33,7 +33,7 @@
       {
         plugin = dracula;
         extraConfig = ''
-          set -g @dracula-plugins "cpu-usage ram-usage weather"
+          set -g @dracula-plugins "cpu-usage ram-usage weather clock"
 	  set -g @dracula-show-battery false
           set -g @dracula-show-powerline true
 	  set -g @dracula-military-time true
